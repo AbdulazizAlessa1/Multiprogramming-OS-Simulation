@@ -1,0 +1,177 @@
+#### SUMMARY ####
+
+Process id: 2
+Program name: SWE
+Loaded Time: 0
+No of time in CPU: 14
+Total time spent in CPU: 128
+No of IO operations: 3
+Total time spent in IO: 213
+No of time waiting for memory: 0
+Time of termination or kill: 2053
+State: TERMINATED
+
+Process id: 3
+Program name: RXY
+Loaded Time: 0
+No of time in CPU: 14
+Total time spent in CPU: 97
+No of IO operations: 3
+Total time spent in IO: 59
+No of time waiting for memory: 0
+Time of termination or kill: 2053
+State: TERMINATED
+
+Process id: 4
+Program name: RBG
+Loaded Time: 0
+No of time in CPU: 15
+Total time spent in CPU: 172
+No of IO operations: 3
+Total time spent in IO: 168
+No of time waiting for memory: 1
+Time of termination or kill: 2102
+State: TERMINATED
+
+Process id: 1
+Program name: VYZ
+Loaded Time: 0
+No of time in CPU: 17
+Total time spent in CPU: 142
+No of IO operations: 3
+Total time spent in IO: 241
+No of time waiting for memory: 3
+Time of termination or kill: 2206
+State: TERMINATED
+
+Process id: 5
+Program name: QJX
+Loaded Time: 0
+No of time in CPU: 17
+Total time spent in CPU: 120
+No of IO operations: 3
+Total time spent in IO: 116
+No of time waiting for memory: 3
+Time of termination or kill: 2206
+State: TERMINATED
+
+Process id: 6
+Program name: ORR
+Loaded Time: 0
+No of time in CPU: 16
+Total time spent in CPU: 109
+No of IO operations: 3
+Total time spent in IO: 174
+No of time waiting for memory: 2
+Time of termination or kill: 2206
+State: TERMINATED
+
+Process id: 7
+Program name: OQA
+Loaded Time: 0
+No of time in CPU: 21
+Total time spent in CPU: 109
+No of IO operations: 3
+Total time spent in IO: 252
+No of time waiting for memory: 7
+Time of termination or kill: 2634
+State: TERMINATED
+
+Process id: 8
+Program name: OAO
+Loaded Time: 0
+No of time in CPU: 23
+Total time spent in CPU: 120
+No of IO operations: 3
+Total time spent in IO: 178
+No of time waiting for memory: 9
+Time of termination or kill: 2808
+State: TERMINATED
+
+Process id: 9
+Program name: NMP
+Loaded Time: 2162
+No of time in CPU: 14
+Total time spent in CPU: 102
+No of IO operations: 3
+Total time spent in IO: 175
+No of time waiting for memory: 0
+Time of termination or kill: 4036
+State: TERMINATED
+
+Process id: 12
+Program name: KXE
+Loaded Time: 2162
+No of time in CPU: 14
+Total time spent in CPU: 175
+No of IO operations: 3
+Total time spent in IO: 202
+No of time waiting for memory: 0
+Time of termination or kill: 4036
+State: TERMINATED
+
+Process id: 10
+Program name: LVP
+Loaded Time: 2381
+No of time in CPU: 14
+Total time spent in CPU: 125
+No of IO operations: 3
+Total time spent in IO: 163
+No of time waiting for memory: 0
+Time of termination or kill: 4433
+State: TERMINATED
+
+Process id: 11
+Program name: LEU
+Loaded Time: 2381
+No of time in CPU: 14
+Total time spent in CPU: 118
+No of IO operations: 3
+Total time spent in IO: 133
+No of time waiting for memory: 0
+Time of termination or kill: 4628
+State: TERMINATED
+
+Process id: 13
+Program name: JGW
+Loaded Time: 2381
+No of time in CPU: 14
+Total time spent in CPU: 101
+No of IO operations: 3
+Total time spent in IO: 219
+No of time waiting for memory: 0
+Time of termination or kill: 4628
+State: TERMINATED
+
+Process id: 14
+Program name: INI
+Loaded Time: 2661
+No of time in CPU: 14
+Total time spent in CPU: 90
+No of IO operations: 3
+Total time spent in IO: 164
+No of time waiting for memory: 0
+Time of termination or kill: 4771
+State: TERMINATED
+
+Process id: 15
+Program name: BZU
+Loaded Time: 2734
+No of time in CPU: 14
+Total time spent in CPU: 107
+No of IO operations: 3
+Total time spent in IO: 174
+No of time waiting for memory: 0
+Time of termination or kill: 4771
+State: TERMINATED
+
+Process id: 16
+Program name: AGJ
+Loaded Time: 3162
+No of time in CPU: 14
+Total time spent in CPU: 118
+No of IO operations: 3
+Total time spent in IO: 224
+No of time waiting for memory: 0
+Time of termination or kill: 4788
+State: TERMINATED
